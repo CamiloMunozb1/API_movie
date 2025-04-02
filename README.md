@@ -6,11 +6,11 @@ Este es un proyecto de Python para interactuar con una API de películas. El pro
 
 1. Instala las dependencias.
    
-     pip install -r requirements.txt
+        pip install -r requirements.txt
 
 2. Ejecuta el script principal:
 
-     python API_movie.py
+        python API_movie.py
 
 3. Sigue las instrucciones dentro del archivo para realizar búsquedas de las descripciones y posters.
 
